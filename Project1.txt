@@ -1,0 +1,6 @@
+----Day-1---
+Started with Project1 walk through the basiscs.
+Created Jira account.
+Connected Jira with github account.
+Created a Branch from Jira on a new repository in git hub.
+Pushed files from the remote system Readme.MD to the git hub.
