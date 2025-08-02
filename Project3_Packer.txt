@@ -1,0 +1,5 @@
+https://developer.hashicorp.com/packer/docs/provisioners
+
+https://github.blog/enterprise-software/ci-cd/build-ci-cd-pipeline-github-actions-four-steps/
+
+https://github.com/ankit20000/Custom_AMI_Packer
